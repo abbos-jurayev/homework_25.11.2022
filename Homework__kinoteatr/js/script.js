@@ -57,7 +57,7 @@
 
 //raqamni toq yoki juft ekanligini aniqlaydigan kod
 // let logo = +prompt("istagan raqamizni kiriting");
-// if (logo % 2 == 0) {
+// if (logo % 2 === 0) {
 //     alert("bu juft son");
 // } else {
 //     alert("bu toq son");
