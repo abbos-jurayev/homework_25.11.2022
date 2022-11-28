@@ -1,3 +1,4 @@
+//kinoteatr
 // let age = +prompt("yoshingiz nechchida");
 // let money = +prompt("qancha pulingiz bor");
 // let theater = 0;
@@ -26,7 +27,7 @@
 //     console.log("Kirishingiz mumkin emas")
 // }
 
-
+//hafta kunlari
 // let day = prompt('1dan 7gacha son kiriting');
 // switch (day){
 //     case "1":
@@ -54,9 +55,10 @@
 //             alert("bunday hafta kuni yuq")
 //         }
 
-// let logo = +prompt('istagan raqamizni kiriting');
+//raqamni toq yoki juft ekanligini aniqlaydigan kod
+// let logo = +prompt("istagan raqamizni kiriting");
 // if (logo % 2 == 0) {
-//     alert('bu juft son');
+//     alert("bu juft son");
 // } else {
-//     alert('bu toq son');
+//     alert("bu toq son");
 // }
